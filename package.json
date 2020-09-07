@@ -1,0 +1,25 @@
+{
+  "name": "Node_MySystem",
+  "version": "1.0.0",
+  "description": "任务进阶系统的 Node 后端",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jokerlsss/Node_MySystem.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jokerlsss/Node_MySystem/issues"
+  },
+  "homepage": "https://github.com/Jokerlsss/Node_MySystem#readme",
+  "dependencies": {
+    "boom": "^7.3.0",
+    "express": "^4.17.1"
+  }
+}
